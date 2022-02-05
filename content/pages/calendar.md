@@ -6,46 +6,344 @@ uid: 89d33816-8db0-aafd-f653-d00ea619ef87
 
 This calendar provides the course's lecture topics, readings, and assignment due dates. While the first half of the course is focused on lectures, a significant portion of the second half is devoted to in-class group work, where students are divided into groups to work on term projects.
 
-| SES # | TOPICS / READINGS |
-| --- | --- |
-| {{< td-colspan 2 >}}**I. Introduction and Background**{{< /td-colspan >}} ||
-| 1 | Introduction, Course Overview |
-| {{< td-colspan 2 >}}**II. Engineers in Action**{{< /td-colspan >}} ||
-| 2 | Reading: Latour, Bruno. _Science in Action__._ Introduction, and chapter 3, pp. 1-17 and 103-144. |
-| 3 | Reading: Latour, Bruno. _Science in Action__._ Chapters 4-6, pp. 145-259. |
-| {{< td-colspan 2 >}}**III. The Construction of Technological Systems**{{< /td-colspan >}} ||
-| 4 | Reading: Mindell. "Opening Black's Box: Rethinking Feedback's Myth of Origin." |
-| {{< td-colspan 2 >}}**IV. Invention and Engineering Culture**{{< /td-colspan >}} ||
-| 5 | Reading: MacKenzie, Donald. _Inventing Accuracy__._ Chapters 1-2. |
-| 6 | Reading: MacKenzie, Donald. _Inventing Accuracy__._ Chapters 4, 7, and 8.  {{< br >}}  {{< br >}}Assignment Due: Response Paper #1 |
-| {{< td-colspan 2 >}}**V. Innovation and Marketplace**{{< /td-colspan >}} ||
-| 7 | Reading: Christensen, Clayton M. _The Inventor's Dilemma__._ Chapters 1, 2, 4, 9, and 11. |
-| 8 | Reading: Discussion of Methodology, Research Methods, Library, Techniques, Source Materials, etc. |
-| {{< td-colspan 2 >}}**VI. Using Sources Effectively**{{< /td-colspan >}} ||
-| 9 | Lab Notebooks and Project Documentation: Meet in MIT Archives, Introduction to Edgerton/Forrester Notebooks  {{< br >}}  {{< br >}}Assignment Due: Response Paper #2 |
-| {{< td-colspan 2 >}}**VII. Group Work and Collaborative Writing**{{< /td-colspan >}} ||
-| 10 | Presentation: "Working Effectively in Groups." In-Class Group Work |
-| 11 | In-Class Group Work, Presentation of Project History Proposals, Discussion and Ranking  {{< br >}}  {{< br >}}Assignment Due: Individual Project History Proposals |
-| {{< td-colspan 2 >}}**VIII. Project History Work**{{< /td-colspan >}} ||
-| 12 | In-Class Group Work |
-| 13 | In-Class Group Work |
-| {{< td-colspan 2 >}}**IX. Visual Materials and Argumentation**{{< /td-colspan >}} ||
-| 14 | Reading: Tufte, Edward. [_Visual and Statistical Thinking_](http://www.amazon.com/exec/obidos/ASIN/0961392134#/ref=nosim/mitopencourse-20)_._ |
-| 15 | In-Class Group Work |
-| {{< td-colspan 2 >}}**X. Understanding Patents**{{< /td-colspan >}} ||
-| 16 | Presentation: "How to Read a Patent." In-Class Group Work |
-| 17 | In-Class Group Work  {{< br >}}  {{< br >}}Assignment Due: Visual Argumentation Exercise |
-| {{< td-colspan 2 >}}**XI. Project Histories**{{< /td-colspan >}} ||
-| 18 | In-Class Group Work  {{< br >}}  {{< br >}}Assignment Due: Group Proposal/Plan of Project History |
-| 19 | In-Class Group Work |
-| 20 | In-Class Group Work |
-| 21 | In-Class Group Work |
-| 22 | In-Class Group Work |
-| {{< td-colspan 2 >}}**XII. Final Preparations**{{< /td-colspan >}} ||
-| 23 | Presentation Rehearsals |
-| 24 | Presentation Rehearsals  {{< br >}}  {{< br >}}Assignment Due: Written Draft for Groups Presenting |
-| {{< td-colspan 2 >}}**XIII. Presentations of Project Histories**{{< /td-colspan >}} ||
-| 25 | Group Presentation of Project Histories |
-| 26 | Group Presentation of Project Histories 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS / READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**I. Introduction and Background**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Course Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**II. Engineers in Action**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Latour, Bruno. _Science in Action__._ Introduction, and chapter 3, pp. 1-17 and 103-144.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Latour, Bruno. _Science in Action__._ Chapters 4-6, pp. 145-259.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**III. The Construction of Technological Systems**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Mindell. "Opening Black's Box: Rethinking Feedback's Myth of Origin."
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**IV. Invention and Engineering Culture**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: MacKenzie, Donald. _Inventing Accuracy__._ Chapters 1-2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: MacKenzie, Donald. _Inventing Accuracy__._ Chapters 4, 7, and 8.  
+  
+Assignment Due: Response Paper #1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**V. Innovation and Marketplace**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Christensen, Clayton M. _The Inventor's Dilemma__._ Chapters 1, 2, 4, 9, and 11.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Discussion of Methodology, Research Methods, Library, Techniques, Source Materials, etc.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**VI. Using Sources Effectively**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Notebooks and Project Documentation: Meet in MIT Archives, Introduction to Edgerton/Forrester Notebooks  
+  
+Assignment Due: Response Paper #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**VII. Group Work and Collaborative Writing**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation: "Working Effectively in Groups." In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work, Presentation of Project History Proposals, Discussion and Ranking  
+  
+Assignment Due: Individual Project History Proposals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**VIII. Project History Work**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**IX. Visual Materials and Argumentation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Reading: Tufte, Edward. [_Visual and Statistical Thinking_](http://www.amazon.com/exec/obidos/ASIN/0961392134#/ref=nosim/mitopencourse-20)_._
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**X. Understanding Patents**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation: "How to Read a Patent." In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work  
+  
+Assignment Due: Visual Argumentation Exercise
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**XI. Project Histories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work  
+  
+Assignment Due: Group Proposal/Plan of Project History
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+In-Class Group Work
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**XII. Final Preparations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation Rehearsals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation Rehearsals  
+  
+Assignment Due: Written Draft for Groups Presenting
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**XIII. Presentations of Project Histories**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentation of Project Histories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentation of Project Histories
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Projects due two days after the last session.
