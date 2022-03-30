@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3169a551-70f4-ac7d-33e0-9e825d2dad1c
 resourcetype: Image
 title: mackenzie.jpg
 uid: 51d9d383-0108-3e74-0430-3bff7f3d9761

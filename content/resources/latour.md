@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3169a551-70f4-ac7d-33e0-9e825d2dad1c
 resourcetype: Image
 title: latour.jpg
 uid: 69f92387-2aae-509f-86a9-5bfe675ae20d

@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 3169a551-70f4-ac7d-33e0-9e825d2dad1c
 resourcetype: Image
 title: tufte.jpg
 uid: 8ff94508-3eb6-9450-f44b-229f2b278621
